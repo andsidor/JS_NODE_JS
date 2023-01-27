@@ -17,6 +17,12 @@
 - https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9
 - https://www.java67.com/2018/07/top-5-free-javascript-books-download-pdf-read-online.html
 - 
+## JS $$ BOOKS
+- https://www.netguru.com/blog/node-js-books
+- https://www.readthistwice.com/lists/best-nodejs-books
+- https://www.mostrecommendedbooks.com/lists/best-nodejs-books
+-
+
 
 ##  JS tutorials
 - https://github.com/TheAlgorithms/JavaScript
@@ -27,7 +33,7 @@
 - https://www.tutorialsteacher.com/javascript
 - https://www.guru99.com/interactive-javascript-tutorials.html
 - 
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ## Node JS tutorials
 - https://www.javatpoint.com/nodejs-tutorial
 - https://nodejs.dev/en/learn/
