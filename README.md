@@ -1,4 +1,4 @@
-# JS_NODE_JS
+# JS & NODE_JS
 ## JS USEFUL LINKS
 - https://github.com/TheAlgorithms/JavaScript
 - https://github.com/EQuimper/All-About-Programming
