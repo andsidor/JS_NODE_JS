@@ -21,7 +21,9 @@
 - https://codingbeautydev.com/blog/javascript-books/
 - https://www.geeksforgeeks.org/top-7-best-javascript-books-recommended-by-the-professionals/
 - https://www.guru99.com/javascript-books.html
--
+- https://betterprogramming.pub/9-best-javascript-books-for-beginners-and-advanced-developers-f44c7e4a3af8
+- https://alvarotrigo.com/blog/javascript-books/
+- https://www.interviewbit.com/blog/best-javascript-books/
 
 
 ##  JS tutorials
@@ -52,7 +54,7 @@
 - 
 - 
  
-## JS $$ BOOKS
+## NODE $$ BOOKS
 
 - https://www.netguru.com/blog/node-js-books
 - https://www.readthistwice.com/lists/best-nodejs-books
