@@ -33,8 +33,17 @@
 - https://nodejs.dev/en/learn/
 - https://www.guru99.com/node-js-tutorial.html
 - https://www.tutorialsteacher.com/nodejs
+- https://blog.hubspot.com/website/best-node-js-books
 - 
 
 ## Node JS Books
--https://freecomputerbooks.com/software.Node.js.Books.html
+- https://freecomputerbooks.com/software.Node.js.Books.html-
+- https://www.pdfdrive.com/node-js-books.html
+- https://www.programming-books.io/essential/nodejs/
+- https://dev.to/adnanbabakan/nodejs-essentials-free-e-book-5319
+- https://devfreebooks.github.io/nodejs/
+- https://www.linuxlinks.com/5-best-free-node-js-introductory-books/
+- 
+- 
+- 
 
