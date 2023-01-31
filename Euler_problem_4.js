@@ -4,7 +4,6 @@
 // run:
 // node FILEMANE.JS
 
-
 function isPalindrome(n) {
 	var temp = n;
 	var reverse = 0;
