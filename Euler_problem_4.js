@@ -1,3 +1,10 @@
+
+// To compilte in NODE JS:
+// Open terminal with file direcory
+// run:
+// node FILEMANE.JS
+
+
 function isPalindrome(n) {
 	var temp = n;
 	var reverse = 0;
