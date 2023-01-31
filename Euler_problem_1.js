@@ -1,4 +1,4 @@
-
+// NODE JS muss be installed
 // To compilte in NODE JS:
 // Open terminal with file direcory
 // run:
