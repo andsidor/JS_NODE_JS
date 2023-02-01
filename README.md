@@ -1,3 +1,9 @@
+
+// To compilte in NODE JS:
+// Open terminal with file direcory
+// run:
+// node FILEMANE.JS
+
 # JS & NODE_JS
 ## JS USEFUL LINKS
 - https://github.com/TheAlgorithms/JavaScript
